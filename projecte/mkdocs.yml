@@ -1,1 +1,8 @@
 site_name: armia
+nav: 
+	- Home: '../'
+	- M01: 'm01.md'
+	- M02: 'm02.md'
+	- M03: 'm03.md'
+	- M04: 'm04.md'
+	- M05: 'm05.md'
